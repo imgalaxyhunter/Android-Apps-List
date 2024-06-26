@@ -1,4 +1,4 @@
-This list was created because all other online resources seem to be filled with dangeorus recommendations or misinformation.
+This list was created because all other online resources are filled with dangeorus recommendations or misinformation.
 
 If you would like to to submit a recommendation request then feel free to do so via [pull requests](https://github.com/imgalaxyhunter/Android-Apps-List/pulls) or [issues](https://github.com/imgalaxyhunter/Android-Apps-List/issues)
 
