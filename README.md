@@ -32,10 +32,10 @@
   - [Rain](https://github.com/DarkMooNight/Rain) - Weather app.
   - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application.
 ### Keyboard
-[HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard.
-[FUTO Keyboard](https://keyboard.futo.org/#download) - The goal is to make a good keyboard that doesn't spy on users. This is a fork of LatinIME (the Android Open-Source Keyboard). Currently in alpha.
-[FlorisBoard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
-[Transcribro](https://github.com/soupslurpr/Transcribro/) Private and on-device speech recognition keyboard and service for Android.
+- [HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard.
+- [FUTO Keyboard](https://keyboard.futo.org/#download) - The goal is to make a good keyboard that doesn't spy on users. This is a fork of LatinIME (the Android Open-Source Keyboard). Currently in alpha.
+- [FlorisBoard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
+- [Transcribro](https://github.com/soupslurpr/Transcribro/) Private and on-device speech recognition keyboard and service for Android.
 
 ### VPN
   - [Rethink DNS](https://github.com/celzero/rethink-app) DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
