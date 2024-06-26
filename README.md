@@ -44,7 +44,7 @@
   - [VLC Media Player](https://videolan.org) - The best video and music player. Fast and “just works”, plays any file (link compatible with [Obtainium](https://github.com/imranr98/obtainium)).
   - [Seal](https://github.com/JunkFood02/Seal/) - 🦭 Video/audio downloader for Android (YT-DLP), designed with Material You.
   - [KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Secure and open source password manager compatible with KeePass files.
-  - [Bitwarden](https://github.com/bitwarden/mobile) - Secure and open source password manager compatible with KeePass files.
+  - [Bitwarden](https://github.com/bitwarden/android) - Secure your digital life and protect against data breaches by generating and saving unique, strong passwords for every account. Maintain everything in an end-to-end encrypted password vault that only you can access.
   - [Catima](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android.
   - [Feeder](https://github.com/spacecowboy/Feeder) - Android RSS reader app.
 
