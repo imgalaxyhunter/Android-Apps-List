@@ -32,9 +32,6 @@
   - [Rain](https://github.com/DarkMooNight/Rain) - Weather app.
   - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
 ### VPNs
-  - [Mullvad VPN](https://github.com/mullvad/mullvadvpn-app) - Protect your online privacy with a fast, trustworthy, and easy-to-use VPN
-  - [IVPN](https://github.com/ivpn/android-app) - Privacy focused VPN service with WireGuard
-  - [Proton VPN](https://github.com/ProtonVPN/android-app) - Free Swiss VPN with advanced security and privacy features
   - [Rethink DNS](https://github.com/celzero/rethink-app) DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android
   - [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) - Official WireGuard Android app
 ### Misc. Apps
