@@ -47,3 +47,8 @@
   - [Bitwarden](https://github.com/bitwarden/mobile) - Secure and open source password manager compatible with KeePass files.
   - [Catima](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android.
   - [Feeder](https://github.com/spacecowboy/Feeder) - Android RSS reader app.
+
+
+
+
+[why this exists](https://github.com/imgalaxyhunter/Android-Apps-List/blob/main/why%20this%20exists.md)
