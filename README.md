@@ -1,5 +1,5 @@
 ## 🛍️ Apps
-- Onlne Video, Music, Streaming, Podcasts, etc
+### Onlne Video, Music, Streaming, Podcasts, etc
   - [NewPipe](https://github.com/TeamNewPipe/NewPipe/) - Lightweight YouTube frontend
   - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android.
   - [RiMusic](https://github.com/fast4x/RiMusic) - Seamlessly stream music from YouTube Music
