@@ -1,19 +1,19 @@
 ## 🛍️ Apps
 ### Onlne Video, Music, Streaming, Podcasts, etc
   - [NewPipe](https://github.com/TeamNewPipe/NewPipe/) - Lightweight YouTube frontend
-  - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android.
+  - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android
   - [RiMusic](https://github.com/fast4x/RiMusic) - Seamlessly stream music from YouTube Music
   - [Spotube](https://github.com/KRTirtho/spotube/releases/latest) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 ### Offline Music
   - [Auxio](https://github.com/OxygenCobalt/Auxio/releases/latest) - A simple, rational music player for Android
   ### Photo/Video Gallery
   - [Fossify Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery
-  - [Aves Gallery](https://github.com/deckerst/aves) Aves is a gallery and metadata explorer app, built for Android with Flutter.
+  - [Aves Gallery](https://github.com/deckerst/aves) Aves is a gallery and metadata explorer app, built for Android with Flutter
  ### Notes
   - [Notally](https://github.com/OmGodse/Notally) - A beautiful notes app
   - [Fossify Notes](https://github.com/FossifyOrg/Notes) - A simple textfield for adding quick notes without ads
-  - [Notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
-  - [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) - A beautiful, private, secure, and minimalistic Text, Markdown, and Typst editor. 
+  - [Notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote
+  - [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) - A beautiful, private, secure, and minimalistic Text, Markdown, and Typst editor
 ### Secure Messaging/Calling
   - [Molly](https://signal.org/android/apk/) - Enhanced and security-focused fork of Signal for Android
   - [SimpleX Chat](https://github.com/oxen-io/session-android/releases/latest) - The first messaging network operating without user identifiers of any kind - 100% private by design!
@@ -32,10 +32,10 @@
   - [Rain](https://github.com/DarkMooNight/Rain) - Weather app.
   - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
 ### VPNs
-  - [Mullvad VPN](https://github.com/mullvad/mullvadvpn-app) - Protect your online privacy with a fast, trustworthy, and easy-to-use VPN.
+  - [Mullvad VPN](https://github.com/mullvad/mullvadvpn-app) - Protect your online privacy with a fast, trustworthy, and easy-to-use VPN
   - [IVPN](https://github.com/ivpn/android-app) - Privacy focused VPN service with WireGuard
-  - [Proton VPN](https://github.com/ProtonVPN/android-app) - Free Swiss VPN with advanced security and privacy features.
-  - [Rethink DNS](https://github.com/celzero/rethink-app) DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
+  - [Proton VPN](https://github.com/ProtonVPN/android-app) - Free Swiss VPN with advanced security and privacy features
+  - [Rethink DNS](https://github.com/celzero/rethink-app) DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android
   - [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) - Official WireGuard Android app
 ### Misc. Apps
   - [VLC Media Player](https://videolan.org) - The best video and music player. Fast and “just works”, plays any file (link compatible with [Obtainium](https://github.com/imranr98/obtainium))
