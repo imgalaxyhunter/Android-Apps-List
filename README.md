@@ -15,8 +15,8 @@
   - [Notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
   - [BeauTyXT](https://github.com/soupslurpr/BeauTyXT) - A beautiful, private, secure, and minimalistic Text, Markdown, and Typst editor.
 ### Secure Messaging/Calling
-  - [Molly](https://signal.org/android/apk/) - Enhanced and security-focused fork of Signal for Android.
-  - [SimpleX Chat](https://github.com/oxen-io/session-android/releases/latest) - The first messaging network operating without user identifiers of any kind - 100% private by design!
+  - [Molly](https://github.com/mollyim/mollyim-android) - Enhanced and security-focused fork of Signal for Android.
+  - [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) - The first messaging network operating without user identifiers of any kind - 100% private by design!
 
 
 ### App Stores
