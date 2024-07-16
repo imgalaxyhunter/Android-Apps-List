@@ -1,7 +1,8 @@
 ## 🛍️ Apps
 ### YouTube/Music Streaming
-  - [NewPipe](https://github.com/TeamNewPipe/NewPipe/) - Lightweight YouTube frontend.
+  - [Grayjay](https://grayjay.app/) - Media app that allows you to follow creators, not platforms.
   - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android.
+  - [NewPipe](https://github.com/TeamNewPipe/NewPipe/) - Lightweight YouTube frontend.
   - [RiMusic](https://github.com/fast4x/RiMusic) - Seamlessly stream music from YouTube Music.
   - [Spotube](https://github.com/KRTirtho/spotube/releases/latest) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
   ### Photo/Video Gallery
