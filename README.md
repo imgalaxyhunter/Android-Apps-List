@@ -23,7 +23,7 @@
 
 
 ### App Stores
-- [Google Play Store](https://play.google.com/) - Despite misinformation, the Play Store remains the easiest and safest way for most users to download apps. GrapheneOS includes a mirror in their [app repository](https://grapheneos.org/features#grapheneos-app-repository) for users to obtain safely.
+- [Google Play Store](https://play.google.com/) - Despite misinformation, the Play Store remains the [easiest and safest way](https://privsec.dev/posts/android/f-droid-security-issues/) for most users to download apps. GrapheneOS includes a mirror in their [app repository](https://grapheneos.org/features#grapheneos-app-repository) for users to obtain safely.
 - [Accrescent](https://github.com/accrescent/accrescent/releases/latest) - A novel Android app store focused on security, privacy, and usability.
 - [Obtainium](https://github.com/ImranR98/Obtainium/releases/latest) - Obtainium allows direct Android app updates from the source. For verifying app signatures, consider using [AppVerifier](https://github.com/soupslurpr/appverifier).
 
