@@ -4,6 +4,7 @@
   - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android.
   - [NewPipe](https://github.com/TeamNewPipe/NewPipe/) - Lightweight YouTube frontend.
   - [RiMusic](https://github.com/fast4x/RiMusic) - Seamlessly stream music from YouTube Music.
+  - [InnerTune](https://github.com/Malopieds/InnerTune) - A Material 3 YouTube Music client for Android
   - [Spotube](https://github.com/KRTirtho/spotube/releases/latest) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
   ### Photo/Video Gallery
   - [Fossify Gallery](https://github.com/FossifyOrg/Gallery) - Browse your memories without any interruptions with this photo and video gallery.
