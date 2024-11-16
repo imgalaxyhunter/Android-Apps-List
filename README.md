@@ -44,12 +44,14 @@
 ### VPN
   - [Rethink DNS](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
   - [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) - Official WireGuard Android app.
+### Password manager
+- [KeePassDX](https://github.com/Kunzisoft/KeePassDX)
+- [Proton Pass](https://proton.me/pass)
 ### Misc. Apps
   - [VLC Media Player](https://videolan.org) - The best video and music player. Fast and “just works”, plays any file (link compatible with [Obtainium](https://github.com/imranr98/obtainium)).
   - [Auxio](https://github.com/OxygenCobalt/Auxio/releases/latest) - A simple, rational music player for Android.
   - [Seal](https://github.com/JunkFood02/Seal/) - 🦭 Video/audio downloader for Android (YT-DLP), designed with Material You.
   - [KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Secure and open source password manager compatible with KeePass files.
-  - [Bitwarden](https://github.com/bitwarden/android) - Secure your digital life and protect against data breaches by generating and saving unique, strong passwords for every account. Maintain everything in an end-to-end encrypted password vault that only you can access.
   - [Catima](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android.
   - [Feeder](https://github.com/spacecowboy/Feeder) - Android RSS reader app.
 
