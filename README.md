@@ -1,6 +1,5 @@
 ## 🛍️ Apps
 ### YouTube/Music Streaming
-  - [Grayjay](https://grayjay.app/) - Media app that allows you to follow creators, not platforms.
   - [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest) - An alternative frontend for YouTube, for Android.
   - [NewPipe](https://github.com/TeamNewPipe/NewPipe/) - Lightweight YouTube frontend.
   - [RiMusic](https://github.com/fast4x/RiMusic) - Seamlessly stream music from YouTube Music.
@@ -39,7 +38,6 @@
   - [Pixel Weather](https://play.google.com/store/apps/details?id=com.google.android.apps.weather) - Your integrated and personalized weather app for Pixel.
 ### Keyboard
 - [HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard.
-- [FUTO Keyboard](https://keyboard.futo.org/#download) - The goal is to make a good keyboard that doesn't spy on users. This is a fork of LatinIME (the Android Open-Source Keyboard). Currently in alpha.
 - [FlorisBoard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [Transcribro](https://github.com/soupslurpr/Transcribro/) - Private and on-device speech recognition keyboard and service for Android.
 
