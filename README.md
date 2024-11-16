@@ -36,6 +36,7 @@
   - [Rain](https://github.com/DarkMooNight/Rain) - Weather app.
   - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application.
   - [Bura](https://github.com/davidtakac/bura) - Modern weather app with graphs and thoughtful data visualization
+  - [Pixel Weather](https://play.google.com/store/apps/details?id=com.google.android.apps.weather) - Your integrated and personalized weather app for Pixel.
 ### Keyboard
 - [HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard.
 - [FUTO Keyboard](https://keyboard.futo.org/#download) - The goal is to make a good keyboard that doesn't spy on users. This is a fork of LatinIME (the Android Open-Source Keyboard). Currently in alpha.
